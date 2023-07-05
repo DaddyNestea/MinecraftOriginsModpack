@@ -141,5 +141,5 @@ metafile = true
 
 [[files]]
 file = "mods/wi-zoom.pw.toml"
-hash = "c4f5ce92bad290735ff7bd4e17dc31cae9d296b690740285717eb72782d58c80"
+hash = "b18d462a59f9ccd750cf844df78cab4ce8eb9941ebf8444f8c97ad399688179e"
 metafile = true
