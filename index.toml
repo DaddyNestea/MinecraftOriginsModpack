@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0043d984e66e546f5386fff0c2c8655f05748e23dbe5ed750fdf6f392151836f"
+hash = "8549f8fdb7d2eb89173efd1f03d750e15d1d984c215d075e83ba59a8e115b5b9"
 metafile = true
 
 [[files]]
@@ -96,6 +96,11 @@ hash = "9c6b34118c4804127d1e71a7aa87464e231445ee1fc3f4f30f8e5901e89b57a7"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "2c41b15468094950a9f2219fd53899ef7281dd56508324fde86cfe74f0be68fe"
+metafile = true
+
+[[files]]
 file = "mods/origins.pw.toml"
 hash = "67456e20e6affc326d91007130f83d05c257480420fee3eba29d438d8e4c9ec8"
 metafile = true
@@ -118,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/seleni.pw.toml"
 hash = "79026e4941ae87f3dcfd317460862ef132f2547d87bf85045233074a8eaa17be"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
 metafile = true
 
 [[files]]
