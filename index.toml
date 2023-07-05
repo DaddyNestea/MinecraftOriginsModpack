@@ -1,0 +1,145 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "63a98a539356af7c16641202f4a5e8f3883f66d58f2579b731becae265995a2e"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "5be04e5f04b49423eab0d54e0ea5029f8aec65b6cc9c6d14d46cb73bb948e227"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "156942df991662545265aae10fafa4b64bc1ba1226670be03916e58894671089"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "a47f5fbc95c98d99bb73e28ce56da25f5d2b3bb561861b4f60dd0717ba342588"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "1ce6d6922564da4116840ce60204adc2d691873059367b09084f9de7e898b4b4"
+metafile = true
+
+[[files]]
+file = "mods/even-more-origins.pw.toml"
+hash = "3b7870a297c917644ea11c2e84a465105f6cbc2b35f853cb9ad2248a4ea2b43e"
+metafile = true
+
+[[files]]
+file = "mods/extra-origins.pw.toml"
+hash = "df20e5c86a1af569f6c6fcc4d087b32e7bd88384ba577a25aa582b3a342edd66"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "0043d984e66e546f5386fff0c2c8655f05748e23dbe5ed750fdf6f392151836f"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "4ee359a86da950211a8da17a896c815af7d35fd9c5b7d3472f3fd5676476ba81"
+metafile = true
+
+[[files]]
+file = "mods/ibarns-quartet-origins-addon.pw.toml"
+hash = "efe14dec31b2b39f7549166d441bc4d5d7041fcee19a65eb7f1e85dcbc43508a"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e6e746d0ac4dd170a8309e7bda19ad05c74d6352c1569f83f4dd01e2980674ff"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "cf6adf4f1a4e8f56e592805ea37d1120b42ab5389da6f423040639cb229f48d0"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "07983e0218b41b8333fc9168024a8e1815b4a43cfaa0d0a96c06e0942d278b0a"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "166e9c1b7065997daec0a910789b05e8350cc90d56beeb9b85b53c498ae71ab8"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "ef2f37f8f7eb3481d6d379b54b6607fc7e2b51be0a8fabeccdb0e39ae01cba0c"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "be8427f766253fce639d6e3e351b726a9b98e6ebc3ed4bec2023ea352bda0ae8"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "78e5ad156b8c0619fe9b2603c3d26423985c4f8437dfce3dcdce4d7463a1ca79"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "9c6b34118c4804127d1e71a7aa87464e231445ee1fc3f4f30f8e5901e89b57a7"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "67456e20e6affc326d91007130f83d05c257480420fee3eba29d438d8e4c9ec8"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "ae105f60f050669e7efe41aaa1d4cedeb1834f428aa0c84bfc2185accb96420f"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "c48006ba1c8c4ab44d43ace55bac28c14a237f48016d990b4c2057255a60477a"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "9ada59dae64836137f116799f5e419c898b21dd339054e4454fc85d2c7aed926"
+metafile = true
+
+[[files]]
+file = "mods/seleni.pw.toml"
+hash = "79026e4941ae87f3dcfd317460862ef132f2547d87bf85045233074a8eaa17be"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "c1f6ffc26b8db5010feeb6ac48ebb391ae4e3cd4496db3f287c0978b593e53a7"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
+metafile = true
+
+[[files]]
+file = "mods/touhou-origins.pw.toml"
+hash = "091aa8d379177c3d88af2280edc3f819613c5187e0e9dd09542be7ad2aa24da2"
+metafile = true
+
+[[files]]
+file = "mods/wi-zoom.pw.toml"
+hash = "c4f5ce92bad290735ff7bd4e17dc31cae9d296b690740285717eb72782d58c80"
+metafile = true

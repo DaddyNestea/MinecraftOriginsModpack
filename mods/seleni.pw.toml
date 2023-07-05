@@ -1,0 +1,13 @@
+name = "Seleni"
+filename = "seleni-0.2.3+1.19.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "58f793da62587ed40ec7ed9e9c0fecb1417f807b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4593275
+project-id = 580813

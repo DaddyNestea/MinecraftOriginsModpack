@@ -1,0 +1,13 @@
+name = "Extra Origins"
+filename = "extraorigins-1.19-5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XWEESDPe/versions/C5JLeuBn/extraorigins-1.19-5.jar"
+hash-format = "sha1"
+hash = "6c3e68628dc010d6f3e7a45c47c567e5f70de5cb"
+
+[update]
+[update.modrinth]
+mod-id = "XWEESDPe"
+version = "C5JLeuBn"
