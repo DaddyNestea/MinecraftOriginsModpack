@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "434bea6bc8c6b9abe951688847292ea5cf32a1d4b585e9e1d3f13f1dca58c3ff"
+hash = "156942df991662545265aae10fafa4b64bc1ba1226670be03916e58894671089"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "4ee359a86da950211a8da17a896c815af7d35fd9c5b7d3472f3fd5676476ba81"
+hash = "de9b5bac4165fb069bf6df9da2bb6028d50dd51fa0d294f0fb62d1d0c64b707b"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "e6e746d0ac4dd170a8309e7bda19ad05c74d6352c1569f83f4dd01e2980674ff"
+hash = "012a895c6e6def9eccf33ca2296466a6f062f4587016c465c962fa8de2869ced"
 metafile = true
 
 [[files]]
@@ -102,12 +102,12 @@ metafile = true
 
 [[files]]
 file = "mods/origins.pw.toml"
-hash = "67456e20e6affc326d91007130f83d05c257480420fee3eba29d438d8e4c9ec8"
+hash = "8ff2c0cd469473f6a59d917d548c8b32cf0d0f7692964878186e3474689c9b04"
 metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "ae105f60f050669e7efe41aaa1d4cedeb1834f428aa0c84bfc2185accb96420f"
+hash = "e6ad8855aee828b004b5be87f5cad12dbc9de346e7200add290b1b93a2a0ad5c"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
+hash = "c1f6ffc26b8db5010feeb6ac48ebb391ae4e3cd4496db3f287c0978b593e53a7"
 metafile = true
 
 [[files]]
